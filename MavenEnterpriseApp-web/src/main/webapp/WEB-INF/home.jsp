@@ -12,8 +12,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Devops Training.</h1>
+<h1 align="center">We would be deploying this app on a Kubernetes cluster, so sit and happy learning.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
